@@ -4,3 +4,5 @@ Estimating the Remaining Useful Life of Lithium Ion Batteries Using Artificial N
 
 * Tried to Use both Sequential and Functional API Keras Model.
 * Got an Accuracy of 0.985 while interchanging proper Epochs and Batch Size.
+
+DATASET : @NASA
